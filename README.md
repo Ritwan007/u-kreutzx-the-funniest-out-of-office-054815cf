@@ -1,6 +1,8 @@
 # The Funniest Out-of-Office
 
 [![make.fun](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf.svg)](https://make.fun/competitions/u-kreutzx-the-funniest-out-of-office-054815cf)
+[![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/Ritwan007/u-kreutzx-the-funniest-out-of-office-054815cf/rank.svg)](https://make.fun/competitions/u-kreutzx-the-funniest-out-of-office-054815cf)
+[![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/Ritwan007/u-kreutzx-the-funniest-out-of-office-054815cf/reward.svg)](https://make.fun/competitions/u-kreutzx-the-funniest-out-of-office-054815cf)
 
 Entry for the make.fun competition **The Funniest Out-of-Office**
 (`u-kreutzx-the-funniest-out-of-office-054815cf`).
